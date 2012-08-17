@@ -1,0 +1,9 @@
+C:\source\GoodFET\GoodFETTest\GoodFETTest\bin\Debug\GoodFETTest.exe
+C:\source\GoodFET\GoodFETTest\GoodFETTest\bin\Debug\GoodFETTest.pdb
+C:\source\GoodFET\GoodFETTest\GoodFETTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\source\GoodFET\GoodFETTest\GoodFETTest\obj\x86\Debug\GoodFETTest.Form1.resources
+C:\source\GoodFET\GoodFETTest\GoodFETTest\obj\x86\Debug\GoodFETTest.Properties.Resources.resources
+C:\source\GoodFET\GoodFETTest\GoodFETTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\source\GoodFET\GoodFETTest\GoodFETTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\source\GoodFET\GoodFETTest\GoodFETTest\obj\x86\Debug\GoodFETTest.exe
+C:\source\GoodFET\GoodFETTest\GoodFETTest\obj\x86\Debug\GoodFETTest.pdb
